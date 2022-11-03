@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -18,7 +19,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./images/screenshot.jpg)
 
+### Links
 
+- Live Site URL: [https://stupendous-bunny-e7f2e3.netlify.app/](https://stupendous-bunny-e7f2e3.netlify.app/)
 
 ## My process
 
